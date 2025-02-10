@@ -12,7 +12,7 @@ We will be going over the following:
 * Explore Gradio and Streamlit for building quick interactive AI prototypes.
 * Learn how to integrate Hugging Face models into Gradio and Streamlit applications.
 
-**If you want to follow along, please create an account with [Balsamiq](https://balsamiq.com/), [Figma](https://www.figma.com/), and [HuggingFace]().
+**If you want to follow along, please create an account with [Balsamiq](https://balsamiq.com/), [Figma](https://www.figma.com/), and [HuggingFace](https://huggingface.co/).**
 
 ### Part 1: Wireframing with Balsamiq and Figma
 
